@@ -18,5 +18,5 @@ git config --global user.email "email"
 2. git commit -m "your message here"
 3. git push
 
-git
+
 ## INTRODUCTION
